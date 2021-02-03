@@ -14,3 +14,13 @@ console.log(fun)
 
 let ages=[12,23]
 console.log(ages[22]);
+
+
+
+function doSomething(x, y){
+
+    console.log(y);
+    
+    }
+    
+    doSomething(32);
