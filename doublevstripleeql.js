@@ -9,3 +9,15 @@ else {
 
 // == only checks value, === checks both the value and type.
 // == e 0 ar false 2ta const ke compare korle true, 1 and true ke compare korleo true dekhabe, tai compare korte always use ===
+
+if (‘2’===2){
+
+    console.log(“Inside if”);
+    
+    }
+    
+    else{
+    
+    console.log(“Inside else”);
+    
+    }
